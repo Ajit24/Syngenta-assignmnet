@@ -21,8 +21,8 @@ note that this is important consideration in the problem.
 - REACTJS
 
 ## Instruction for use:
--Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.
--You want to remove circle from empty box and send it to original position then you click on that circle inside empty box. You will be able to see it move back to its original position.
+<p>Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.</p>
+<p>You want to remove circle from empty box and send it to original position then you click on that circle inside empty box. You will be able to see it move back to its original position.</p>
 
 ## Home page : -
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(395).png" alt="landing-page" />
