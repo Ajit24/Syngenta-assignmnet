@@ -16,5 +16,18 @@ circles residing in the empty div. Example the user clicked yellow circle which 
 empty div and the yellow came back to its original position (that is second position). Please
 note that this is important consideration in the problem.
 </p> 
-<h2> Home Page :- </h2>
+## Technology Stack Used:
+- REACTJS
+
+## Features
+- There is a Text input Box and a SHOOT Button .
+- There are lists of five circles which all have different colors .
+- There is also a Empty-box 
+- if users type a number and shoot the button , he/she will see the corresponding circle moved in Empty-box (div)
+- Users can shoot multiple circles and corresponding circles would move in to the empty-box(div)
+- If user clicks corresponding circles residing in the empty-box(div) , he/she can get back the circles that were shooted . 
+- 
+## Home page : -
+<img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(395).png" alt="landing-page" />
+
 
