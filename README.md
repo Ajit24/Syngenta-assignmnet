@@ -26,6 +26,10 @@ note that this is important consideration in the problem.
 <p>Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.</p>
 <p>You want to remove circle from empty box and send it to original position then you click on that circle inside empty box. You will be able to see it move back to its original position.</p>
 
+## Steps to run this project:-
+# Open your terminal and navigate to a folder where you want to run this project:
+
+
 ## Home page : -
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(395).png" alt="landing-page" />
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(400).png" alt="landing-page" />
