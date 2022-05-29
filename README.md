@@ -28,5 +28,10 @@ note that this is important consideration in the problem.
 
 ## Home page : -
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(395).png" alt="landing-page" />
+<img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(400).png" alt="landing-page" />
+<img align="center" src="image/Screenshot%20(401).png" alt="landing-page" />
+<img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(402).png"/>
+
+
 
 
