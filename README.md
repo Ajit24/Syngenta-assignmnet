@@ -19,6 +19,8 @@ note that this is important consideration in the problem.
 
 # Technology Stack Used:
 - REACTJS
+- javaScript
+- Css
 
 ## Instruction for use:
 <p>Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.</p>
