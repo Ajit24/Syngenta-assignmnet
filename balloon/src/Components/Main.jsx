@@ -75,25 +75,25 @@ export default function Main() {
           value={shootnum}
           onChange={(e) => setShootnum(e.target.value)}
         />
-        <br /> <br />
         <button onClick={() => shootChange()}>Shoot</button>
       </div>
 
-      
+      <span className="EmptyName">Empty Div</span>
+      <span className="Circles5">5 Circles</span>
       <div className="MainDiv">
 
         {/* --------------empty circle div ----------------*/}
 
         
         <div className="Empty_Div">
-        <p>Empty Div</p>
+        
 
 
           {/* data append */}
 
           {emptyDiv.map((e) => (
             <div
-              className="SingleDiv"
+              className=" EmtySingleDiv"
               style={{ background: `${e.color}` }}
               key={e.index}
               onClick={() => onclickingCircle(e)}
@@ -107,7 +107,7 @@ export default function Main() {
           ))}
         </div>
 
-        {/* circle main div of origin */}
+        {/*------------ circle main div of origin ----------------*/}
 
         <div>
           {/* data append */}

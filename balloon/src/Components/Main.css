@@ -1,4 +1,20 @@
 
+.EmptyName{
+  /* border: 2px solid blue; */
+  font-size: larger;
+  font-weight: bolder;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  margin-left: -5%;
+  margin-bottom: -1.5%;
+}
+.Circles5{
+/* border: 2px solid black; */
+font-size: larger;
+  font-weight: bolder;
+margin-left: 50%;
+}
   .MainDiv {
     margin-top: 2%;
     display: flex;
@@ -13,7 +29,18 @@
 
   .Empty_Div{
       border: 2px solid red;
+      width: 80%;
       height: 500px !important;
+      display: flex;
+  }
+  .EmtySingleDiv{
+    margin: 0px ;
+    padding: 0px ;
+    /* margin-left: 5%; */
+     margin: auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
   }
   
   .SingleDiv {
@@ -40,7 +67,7 @@
     border: transparent;
     padding: 1%;
     border-radius: 15px;
-    cursor: pointer;
+    /* cursor: pointer; */
   }
 
   
