@@ -22,12 +22,31 @@ note that this is important consideration in the problem.
 - javaScript
 - Css
 
-## Instruction for use:
-<p>Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.</p>
-<p>You want to remove circle from empty box and send it to original position then you click on that circle inside empty box. You will be able to see it move back to its original position.</p>
+ # Instruction for use: 
+  - Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.
+  - You want to remove circle from empty box and send it to original position then **you click on that circle inside empty box**. You will be able to see it move back to its original position.
 
-## Steps to run this project:-
-# Open your terminal and navigate to a folder where you want to run this project:
+<br/>
+
+
+### Steps to run this project:~
+#### Open your terminal and navigate to a folder where you want to run this project:
+ - Step.1 clone this repository in your system using the following command
+ ```js
+ git clone https://github.com/Ajit24/Syngenta-assignmnet.git
+ ```
+- Step.2 Now navigate inside the project directory using the following command 
+```js
+ cd balloon
+```
+- Step.3 Install the required packages to run this project using the following command 
+```js
+ npm install
+```
+- Step.4 To run this project run the following command into your terminal 
+```js
+ npm run start
+```
 
 
 ## Home page : -
