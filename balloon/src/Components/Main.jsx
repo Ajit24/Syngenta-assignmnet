@@ -9,19 +9,19 @@ export default function Main() {
       index: 1,
     },
     {
-      color: "brown",
+      color: "black",
       index: 2,
     },
     {
-      color: "green",
+      color: "Cyan",
       index: 3,
     },
     {
-      color: "pink",
+      color: "Yellow",
       index: 4,
     },
     {
-      color: "cyan",
+      color: "Lime",
       index: 5,
     },
   ];
