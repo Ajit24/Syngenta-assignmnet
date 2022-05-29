@@ -20,14 +20,10 @@ note that this is important consideration in the problem.
 # Technology Stack Used:
 - REACTJS
 
-## Features
-- There is a Text input Box and a SHOOT Button .
-- There are lists of five circles which all have different colors .
-- There is also a Empty-box 
-- if users type a number and shoot the button , he/she will see the corresponding circle moved in Empty-box (div)
-- Users can shoot multiple circles and corresponding circles would move in to the empty-box(div)
-- If user clicks corresponding circles residing in the empty-box(div) , he/she can get back the circles that were shooted . 
-- 
+## Instruction for use:
+-Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.
+-You want to remove circle from empty box and send it to original position then you click on that circle inside empty box. You will be able to see it move back to its original position.
+
 ## Home page : -
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/UI-projects_frontend/main/image/Screenshot%20(395).png" alt="landing-page" />
 
